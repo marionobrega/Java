@@ -7,7 +7,7 @@ class main
 
     
         //forma 2
-        String hello = "Hello world";
+        String hello = "Hello worlds";
         System.out.println(hello.toUpperCase());
     }
 }
